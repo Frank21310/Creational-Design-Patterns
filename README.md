@@ -3,4 +3,4 @@ In software engineering, creational design patterns are design patterns that dea
 
 ## Autor
 
-[<img src="https://avatars.githubusercontent.com/u/45299753?s=400&u=4706766a6e96b8a64c0a8faaa750d8b87dfb863f&v=4" width=115><br><sub>Francisco Daniel Santaella Ruiz</sub>]([https://github.com/Frank21310])
+[<img src="https://avatars.githubusercontent.com/u/45299753?s=400&u=4706766a6e96b8a64c0a8faaa750d8b87dfb863f&v=4" width=115><br><sub>Francisco Daniel Santaella Ruiz</sub>]([https://github.com/Frank21310])]
